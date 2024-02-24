@@ -1,0 +1,11 @@
+/* Image */
+.u-sheet .u-offcanvas img{
+ display:inline-block;
+ transform:translatex(-973px) translatey(264px);
+ margin-bottom:0px;
+ width:196px;
+ min-height:196px;
+ border-color:#ffffff;
+ border-style:solid;
+ border-width:4px;
+}
